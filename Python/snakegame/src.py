@@ -2,7 +2,7 @@ from tkinter import *
 import random
 
 # defining some of the constants which we dont want to change
-
+NEW_GAME_WIDTH=900
 GAME_WIDTH=600
 GAME_HEIGHT=600
 SPEED =100
